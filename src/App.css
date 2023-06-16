@@ -1,0 +1,29 @@
+.head{
+  border-radius: 100px;
+}
+.headindg{
+  font-size: bold;
+
+}
+.box{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+
+.divbox{
+  color: rgb(102, 119, 211);
+  padding-top: 8px;
+  padding-left: 15px;
+}
+.divbox2{
+  color: red;
+  padding-top: 8px;
+  padding-left: 15px;
+  background-color: rgb(30, 164, 164);
+}
+
+.MuiGrid-root MuiGrid-grid-md-7 css-vj1n65-MuiGrid-root{
+  width: 85%;
+}
